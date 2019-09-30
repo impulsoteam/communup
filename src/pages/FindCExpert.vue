@@ -10,8 +10,7 @@
           v-model="search"
           debounce="500"
           filled
-          placeholder="Pesquisar"
-          hint="ex: Igor">
+          placeholder="Pesquisar">
           <template v-slot:append>
             <q-icon name="search" />
           </template>
