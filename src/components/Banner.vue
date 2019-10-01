@@ -29,9 +29,15 @@
 
 .index-page {
   background-image: url(~assets/main-banner.jpg);
+  background-position: 25% 25%;
 }
 .find-cexpert-page {
   background-image: url(~assets/cexperts.jpg);
+  background-position: 30% 30%;
+}
+
+.program-benefits-page {
+  background-image: url(~assets/benefits.jpg);
   background-position: 30% 30%;
 }
 </style>
