@@ -18,8 +18,9 @@
       </div>
     </div>
 
-    <div class="row q-my-xl">
+    <div class="row justify-center q-my-xl">
       <avatar
+        class="q-my-md"
         v-for="cexpert in cexpertsFiltered"
         :key="cexpert.name"
         :photo-url="cexpert.photoUrl"
