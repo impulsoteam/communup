@@ -20,13 +20,13 @@ export default [
     ],
   },
   {
-    name: 'Rodrigo PokemãoBR',
-    photoUrl: 'https://eventos.imasters.com.br/jsexperience/wp-content/uploads/sites/2/2018/06/pokemao_br.png',
-    shortDescription: 'Apresentador do TheDevelopers. @PHPSP Leader. Palestrante Stand-up comedy para devs.',
+    name: 'Lucas Santos',
+    photoUrl: 'https://i.imgur.com/eWTCQgZ.png',
+    shortDescription: 'Microsoft MVP & Google Dev Expert. Member & Contributor JS Foundation. Organizer no ABCDev, NodeBR, JSSP, TSBR e tudo que tem JS',
     links: [
-      { name: 'Linkedin', url: 'https://www.linkedin.com/in/igorhalfeld/' },
-      { name: 'Github', url: 'https://github.com/igorhalfeld' },
-      { name: 'Twitter', url: 'https://twitter.com/igorhalfeld' },
+      { name: 'Linkedin', url: 'https://www.linkedin.com/in/lhs-santos/' },
+      { name: 'Github', url: 'https://github.com/khaosdoctor' },
+      { name: 'Twitter', url: 'https://twitter.com/_staticvoid' },
     ],
   },
 ];
