@@ -88,6 +88,10 @@
         <span>💬</span> Canal exclusivo no Rocket.chat para sua comunidade.
       </p>
     </widget>
+
+    <div class="column col-6 q-pa-md" style="max-width: 932px">
+      <q-btn color="white" text-color="black" label="Solicite uma mentoria" />
+    </div>
   </q-page>
 </template>
 
