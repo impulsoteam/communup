@@ -4,6 +4,18 @@
       classes="index-page"
       title="Communup"
       sub-title="Impulsionando Comunidades de Tecnologia" />
+
+    <div class="column col-6 q-pa-md" style="max-width: 932px">
+      <h4 class="text-h5 text-grey-8 q-mb-none text-weight-bold">O que é</h4>
+      <p class="text-body1 text-grey-7 q-mt-none text-weight-medium">
+        Communup é um projeto para ajudar comunidades a crescer dando mentoria
+        para seus lideres e beneciando-os para continuar contribuindo e compartilhando conhecimento.
+        Em parceria com a <a href="https://impulso.network">Impulso Network</a> vamos conseguir alavancar as comunidades
+        com mentoria, e sessões de coach para os lideres diretamente com quem já organiza
+        comunidades há um tempo.
+      </p>
+    </div>
+
     <div class="column col-6 q-pa-md">
       <h4 class="text-h5 text-grey-8 q-mb-none text-weight-bold">Metorias e feedbacks 1-1</h4>
       <p class="text-body1 text-grey-7 q-mt-none q-mb-xl text-weight-medium">

@@ -23,7 +23,9 @@
       <q-list>
         <q-item>
           <q-item-section>
-            <h1 class="text-h2 text-grey-9 text-uppercase text-weight-bold text-center">Menu</h1>
+            <h1 class="text-h4 text-grey-9 text-uppercase text-weight-bold text-center">
+              Communup
+            </h1>
           </q-item-section>
         </q-item>
         <q-item clickable @click="goFor('FindCExpert')">
@@ -56,12 +58,17 @@
     <q-page-container>
       <router-view />
     </q-page-container>
+
+    <custom-footer />
   </q-layout>
 </template>
 
 <script>
+import Footer from '../components/Footer';
+
 export default {
   name: 'DefaultLayout',
+  components: { CustomFooter: Footer },
   data: () => ({
     leftDrawerOpen: false,
   }),
