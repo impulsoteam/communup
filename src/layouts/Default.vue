@@ -21,7 +21,7 @@
       content-class="bg-grey-1"
     >
       <q-list>
-        <q-item>
+        <q-item @click.native="goFor('Index')" class="cursor-pointer">
           <q-item-section>
             <h1 class="text-h4 text-grey-9 text-uppercase text-weight-bold text-center">
               Communup
@@ -41,7 +41,7 @@
             <q-icon name="star" />
           </q-item-section>
           <q-item-section class="text-uppercase text-grey-9">
-            Benefícios do programa
+            Benefícios do C-EXPERT
           </q-item-section>
         </q-item>
         <q-item clickable>
