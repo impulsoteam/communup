@@ -1,24 +1,27 @@
-# communup (communup)
+## Communup
 
 Aceleradora de comunidades
 
-## Install the dependencies
+### Netlify configs
+
+Repository: `github.com/universoimpulso/communup`
+Build command: `npm run build`
+Publish directory: `dist/spa`
+Production branch: `master`
+
+### Setup
+
 ```bash
+# Install the dependencies
 npm install
-```
 
-### Start the app in development mode (hot-code reloading, error reporting, etc.)
-```bash
+# Start the app in development mode (hot-code reloading, error reporting, etc.)
 quasar dev
-```
 
-### Lint the files
-```bash
+# Lint the files
 npm run lint
-```
 
-### Build the app for production
-```bash
+# Build the app for production
 quasar build
 ```
 
