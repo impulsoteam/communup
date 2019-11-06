@@ -4,10 +4,10 @@ Aceleradora de comunidades
 
 ### Netlify configs
 
-Repository: `github.com/universoimpulso/communup`
-Build command: `npm run build`
-Publish directory: `dist/spa`
-Production branch: `master`
+Repository: `github.com/universoimpulso/communup`  
+Build command: `npm run build`  
+Publish directory: `dist/spa`  
+Production branch: `master`  
 
 ### Setup
 
