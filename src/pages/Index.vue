@@ -34,7 +34,7 @@
       <div class="row justify-center">
         <avatar
           class="q-my-md"
-          v-for="cexpert in cexperts"
+          v-for="cexpert in randomCExperts"
           :key="cexpert.name"
           :photo-url="cexpert.photoUrl"
           :name="cexpert.name"
@@ -107,5 +107,20 @@ export default {
   data: () => ({
     cexperts,
   }),
+  computed: {
+    randomCExperts() {
+      const sortedExperts = [];
+
+      while (sortedExperts.length < 3) {
+        const randomNumber = (Math.random() * (cexperts.length - 1)).toFixed(0);
+        const cexpert = cexperts[randomNumber];
+        if (!sortedExperts.find(sex => sex.name === cexpert.name)) {
+          sortedExperts.push(cexperts[randomNumber]);
+        }
+      }
+
+      return sortedExperts;
+    },
+  },
 };
 </script>

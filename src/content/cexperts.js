@@ -2,7 +2,7 @@ export default [
   {
     name: 'Igor Halfeld',
     photoUrl: 'https://avatars3.githubusercontent.com/u/9022134?s=400&v=4',
-    shortDescription: 'Software Engineer, Microsoft MVP, Organizador no Vue.js Summit, Vue.js SP, JSSP e NodeBR',
+    shortDescription: 'Microsoft MVP, Organizador no Vue.js Summit, Vue.js SP, JSSP e NodeBR',
     links: [
       { name: 'Linkedin', url: 'https://www.linkedin.com/in/igorhalfeld/' },
       { name: 'Github', url: 'https://github.com/igorhalfeld' },
@@ -27,6 +27,22 @@ export default [
       { name: 'Linkedin', url: 'https://www.linkedin.com/in/lhs-santos/' },
       { name: 'Github', url: 'https://github.com/khaosdoctor' },
       { name: 'Twitter', url: 'https://twitter.com/_staticvoid' },
+    ],
+  },
+  {
+    name: 'Italo José',
+    photoUrl: 'https://media.licdn.com/dms/image/C4D03AQGcm9Ri2_M1mQ/profile-displayphoto-shrink_800_800/0?e=1579737600&v=beta&t=jHREHeB5PiYUrQuahoWlL5lfJBnt03yI8Hd25x7Ug-Y',
+    shortDescription: 'Microsoft MVP, Developer Circles from Facebook Lead, IMaster columnist, AI Speaker',
+    links: [
+      { name: 'Linkedin', url: 'https://www.linkedin.com/in/italojs/' },
+    ],
+  },
+  {
+    name: 'Rogério Munhoz',
+    photoUrl: 'https://media.licdn.com/dms/image/C4D03AQGw7igMzXLISA/profile-displayphoto-shrink_200_200/0?e=1579737600&v=beta&t=szUjIGEzwd8eHK5eFc9hoMWOg77J4TqIaH0UrZg4iuM',
+    shortDescription: 'Co-organizador do TypeScript Brasil e Vue.js SP, envolvido com hackerspaces e comunidade hacker no Brasil',
+    links: [
+      { name: 'Linkedin', url: 'https://www.linkedin.com/in/italojs/' },
     ],
   },
 ];
