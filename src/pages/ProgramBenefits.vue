@@ -2,7 +2,7 @@
   <q-page class="column items-center">
     <banner
       classes="program-benefits-page"
-      title="Banefícios oferecidos"
+      title="Benefícios oferecidos"
       sub-title="O que você ganha por estar no programa" />
 
     <widget title="Benefícios dos C-EXPERTS" sub-title="Os mimos de um expert ❤️">
