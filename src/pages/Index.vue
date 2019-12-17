@@ -90,7 +90,7 @@
     </widget>
 
     <div class="column col-6 q-pa-md" style="max-width: 932px">
-      <q-btn color="white" text-color="black" label="Solicite uma mentoria" />
+      <q-btn color="white" text-color="black" type="a" href="https://impulso.link/communup" target="_blank" label="Solicite uma mentoria" />
     </div>
   </q-page>
 </template>
