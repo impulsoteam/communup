@@ -44,7 +44,7 @@
             Benefícios do C-EXPERT
           </q-item-section>
         </q-item>
-        <q-item clickable>
+        <q-item clickable @click="requestMentoring">
           <q-item-section avatar>
             <q-icon name="chat" />
           </q-item-section>
@@ -79,6 +79,9 @@ export default {
     goFor(where) {
       this.$router.push({ name: where });
       this.leftDrawerOpen = false;
+    },
+    requestMentoring() {
+    window.open('https://impulso.link/communup', '_blank')
     },
   },
 };
