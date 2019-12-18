@@ -44,7 +44,7 @@
             Benefícios do C-EXPERT
           </q-item-section>
         </q-item>
-        <q-item clickable @click="requestMentoring">
+        <q-item clickable @click="requestMentoring()">
           <q-item-section avatar>
             <q-icon name="chat" />
           </q-item-section>
