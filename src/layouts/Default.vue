@@ -81,7 +81,7 @@ export default {
       this.leftDrawerOpen = false;
     },
     requestMentoring() {
-    window.open('https://impulso.link/communup', '_blank')
+    window.open('https://impulso.link/communup', '_blank');
     },
   },
 };
