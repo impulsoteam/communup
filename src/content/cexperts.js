@@ -17,6 +17,7 @@ export default [
       { name: 'Linkedin', url: 'https://www.linkedin.com/in/igorhalfeld/' },
       { name: 'Github', url: 'https://github.com/igorhalfeld' },
       { name: 'Twitter', url: 'https://twitter.com/igorhalfeld' },
+      { name: 'Agende uma Mentoria', url: 'https://impulso.link/thaissacandela' },
     ],
   },
   {
@@ -27,6 +28,7 @@ export default [
       { name: 'Linkedin', url: 'https://www.linkedin.com/in/lhs-santos/' },
       { name: 'Github', url: 'https://github.com/khaosdoctor' },
       { name: 'Twitter', url: 'https://twitter.com/_staticvoid' },
+      { name: 'Agende uma Mentoria', url: 'https://impulso.link/lucassantos' },
     ],
   },
   {
