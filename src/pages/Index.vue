@@ -38,6 +38,7 @@
           :key="cexpert.name"
           :photo-url="cexpert.photoUrl"
           :name="cexpert.name"
+          :scheduled-once-url="cexpert.scheduledOnceUrl"
           :short-description="cexpert.shortDescription"/>
       </div>
     </widget>
