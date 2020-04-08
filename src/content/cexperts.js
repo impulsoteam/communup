@@ -13,7 +13,7 @@ export default [
   {
     name: 'Thaíssa Candella',
     photoUrl: '/statics/experts/cexpert_thaissa.png',
-    scheduledOnceUrl: https://go.oncehub.com/thaissacandella',
+    scheduledOnceUrl: 'https://go.oncehub.com/thaissacandella',
     shortDescription: '@GDGCampinas && @DevCirclesCampinas Leader. 10 conferências tech.',
     links: [
       { name: 'Linkedin', url: 'https://www.linkedin.com/in/igorhalfeld/' },
