@@ -24,6 +24,7 @@
         v-for="cexpert in cexpertsFiltered"
         :key="cexpert.name"
         :photo-url="cexpert.photoUrl"
+        :scheduled-once-url="cexpert.scheduledOnceUrl"
         :name="cexpert.name"
         :short-description="cexpert.shortDescription" />
     </div>

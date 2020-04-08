@@ -32,24 +32,4 @@ export default [
       { name: 'Twitter', url: 'https://twitter.com/_staticvoid' },
     ],
   },
-  // {
-  //   name: 'Italo José',
-  //   photoUrl: '/statics/experts/cexpert_italo.png',
-  //   scheduledOnceUrl: '#',
-  //   shortDescription: 'Microsoft MVP, Developer Circles from Facebook Lead, IMaster columnist, AI Speaker',
-  //   links: [
-  //     { name: 'Linkedin', url: 'https://www.linkedin.com/in/italojs/' },
-  //   ],
-  // },
-  // {
-  //   name: 'Rogério Munhoz',
-  //   photoUrl: '/statics/experts/cexpert_rogerio.png',
-  //   scheduledOnceUrl: '#',
-  //   shortDescription: 'Co-organizador do TypeScript Brasil e Vue.js SP, envolvido com hackerspaces e comunidade hacker no Brasil',
-  //   links: [
-  //     { name: 'Linkedin', url: 'https://www.linkedin.com/in/rjmunhoz/' },
-  //     { name: 'Github', url: 'https://github.com/rjmunhoz' },
-  //     { name: 'Twitter', url: 'https://twitter.com/roz_js' },
-  //   ],
-  // },
 ];
