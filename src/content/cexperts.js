@@ -1,7 +1,8 @@
 export default [
   {
     name: 'Igor Halfeld',
-    photoUrl: 'https://avatars3.githubusercontent.com/u/9022134?s=400&v=4',
+    photoUrl: '/statics/experts/cexpert_igor.png',
+    scheduledOnceUrl: 'https://go.oncehub.com/igorhalfeld',
     shortDescription: 'Microsoft MVP, Organizador no Vue.js Summit, Vue.js SP, JSSP e NodeBR',
     links: [
       { name: 'Linkedin', url: 'https://www.linkedin.com/in/igorhalfeld/' },
@@ -11,7 +12,8 @@ export default [
   },
   {
     name: 'Thaíssa Candella',
-    photoUrl: 'http://victoriaferreira.com.br/wp-content/uploads/2018/03/9787AFC4-72FF-4886-B6FF-C60302409B90.jpg',
+    photoUrl: '/statics/experts/cexpert_thaissa.png',
+    scheduledOnceUrl: https://go.oncehub.com/thaissacandella',
     shortDescription: '@GDGCampinas && @DevCirclesCampinas Leader. 10 conferências tech.',
     links: [
       { name: 'Linkedin', url: 'https://www.linkedin.com/in/igorhalfeld/' },
@@ -21,7 +23,8 @@ export default [
   },
   {
     name: 'Lucas Santos',
-    photoUrl: 'https://i.imgur.com/eWTCQgZ.png',
+    photoUrl: '/statics/experts/cexpert_lucas.png',
+    scheduledOnceUrl: 'https://go.oncehub.com/lucassantos',
     shortDescription: 'Microsoft MVP & Google Dev Expert. Member & Contributor JS Foundation. Organizer no ABCDev, NodeBR, JSSP, TSBR e tudo que tem JS',
     links: [
       { name: 'Linkedin', url: 'https://www.linkedin.com/in/lhs-santos/' },
@@ -31,7 +34,8 @@ export default [
   },
   {
     name: 'Italo José',
-    photoUrl: 'https://media.licdn.com/dms/image/C4D03AQGcm9Ri2_M1mQ/profile-displayphoto-shrink_800_800/0?e=1579737600&v=beta&t=jHREHeB5PiYUrQuahoWlL5lfJBnt03yI8Hd25x7Ug-Y',
+    photoUrl: '/statics/experts/cexpert_italo.jpg',
+    scheduledOnceUrl: '#',
     shortDescription: 'Microsoft MVP, Developer Circles from Facebook Lead, IMaster columnist, AI Speaker',
     links: [
       { name: 'Linkedin', url: 'https://www.linkedin.com/in/italojs/' },
@@ -39,10 +43,13 @@ export default [
   },
   {
     name: 'Rogério Munhoz',
-    photoUrl: 'https://media.licdn.com/dms/image/C4D03AQGw7igMzXLISA/profile-displayphoto-shrink_200_200/0?e=1579737600&v=beta&t=szUjIGEzwd8eHK5eFc9hoMWOg77J4TqIaH0UrZg4iuM',
+    photoUrl: '/statics/experts/cexpert_rogerio.jpg',
+    scheduledOnceUrl: '#',
     shortDescription: 'Co-organizador do TypeScript Brasil e Vue.js SP, envolvido com hackerspaces e comunidade hacker no Brasil',
     links: [
-      { name: 'Linkedin', url: 'https://www.linkedin.com/in/italojs/' },
+      { name: 'Linkedin', url: 'https://www.linkedin.com/in/rjmunhoz/' },
+      { name: 'Github', url: 'https://github.com/rjmunhoz' },
+      { name: 'Twitter', url: 'https://twitter.com/roz_js' },
     ],
   },
 ];
