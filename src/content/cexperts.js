@@ -14,7 +14,7 @@ export default [
     name: 'Thaíssa Candella',
     photoUrl: '/statics/experts/cexpert_thaissa.png',
     scheduledOnceUrl: 'https://go.oncehub.com/thaissacandella',
-    shortDescription: '@GDGCampinas && @DevCirclesCampinas Leader. 10 conferências tech.',
+    shortDescription: 'Google Women Techmakers Ambassador & CMX Connect Host. Organizadora no Vuejs Summit, GDG Campinas, DevCircles Campinas from Facebook. Organizou + de 13 conferências tech.',
     links: [
       { name: 'Linkedin', url: 'https://www.linkedin.com/in/igorhalfeld/' },
       { name: 'Github', url: 'https://github.com/igorhalfeld' },
