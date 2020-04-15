@@ -66,7 +66,7 @@
       </p>
       <p class="text-body1 text-grey-7 q-my-none">
         <span>😎</span> Divulgação de Streams em nossas redes e para a
-        nossa comunidade com mais de 15k profissionais de tech.
+        nossa comunidade com mais de 39k profissionais de tech.
       </p>
       <p class="text-body1 text-grey-7 q-my-none">
         <span>🕺</span> Divulgação de eventos presenciais segmentada
