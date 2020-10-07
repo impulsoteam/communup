@@ -29,7 +29,7 @@
     </widget>
 
     <widget
-      title="Metorias e feedbacks 1-1"
+      title="Mentorias e feedbacks 1-1"
       sub-title="Aprenda como fazer a sua comunidade crescer.">
       <div class="row justify-center">
         <avatar
